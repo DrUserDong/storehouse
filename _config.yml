@@ -1,0 +1,37 @@
+# Site settings
+title: SunOddman
+subtitle: 激扬青春，梦想起航
+email: liuzexiang@live.cn
+description: 人生就像一场旅行<br />不必在乎终点<br />在乎的<br />只是沿途的风景
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site
+author: Sun·Oddman
+street_address: Chang Ping
+city: Beijing
+state: 
+zip_code: 
+country: the People's Republic of China
+phone: 赞赏5元以上可见👻
+
+# Homepage tiles
+tiles-source: posts # accepts "posts" or "pages"
+tiles-count: 8
+
+# Social settings
+500px_url:
+facebook_url:
+github_url: https://github.com/SunOddman
+gitlab_url: 
+googleplus_url: https://plus.google.com/u/0/107196077456137636170
+instagram_url: 
+linkedin_url: https://www.linkedin.com/in/泽祥-刘-520414107/
+pinterest_url:
+slack_url:
+twitter_url: 
+weibo_url: 
+
+# Build settings
+markdown: kramdown
+
+sass:
+  style: compressed
